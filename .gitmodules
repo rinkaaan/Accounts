@@ -1,0 +1,3 @@
+[submodule "AccountsApp"]
+	path = AccountsApp
+	url = git@github.com:rinkaaan/AccountsApp.git
