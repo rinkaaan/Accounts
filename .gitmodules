@@ -1,3 +1,6 @@
 [submodule "AccountsApp"]
 	path = AccountsApp
 	url = git@github.com:rinkaaan/AccountsApp.git
+[submodule "AccountsApi"]
+	path = AccountsApi
+	url = git@github.com:rinkaaan/AccountsApi.git
